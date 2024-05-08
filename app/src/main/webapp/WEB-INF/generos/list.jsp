@@ -5,10 +5,12 @@
 <head>
     <meta charset="UTF-8">
     <title>Gêneros</title>
+    <link href="/css/bootstrap.min.css" rel="stylesheet">
 </head>
 <body>
+    
     <h1>Gêneros</h1>
-        <a href="/generos/insert">Novo Gênero</a>
+        <a href="/generos/insert" class="btn btn-primary">Novo Gênero</a>
         <table>
             <tr>
                 <th>ID</th>
